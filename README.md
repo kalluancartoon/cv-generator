@@ -13,7 +13,7 @@ Este projeto é uma aplicação **SaaS (Software as a Service)** desenvolvida pa
 ## 🚀 Live Demo
 
 Acesse a aplicação rodando em nuvem:
-### [🔗 Clique aqui para gerar seu Currículo](COLOCAR_SEU_LINK_AQUI)
+### [🔗 Clique aqui para gerar seu Currículo](https://cv-web-kc.streamlit.app/)
 
 ---
 
